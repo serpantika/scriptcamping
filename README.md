@@ -2,6 +2,7 @@ Comment créer un environnement virtuel (Powershell, Windows)
 - prérequis :
 
     PowerShell
+  
     Python (3.3 minimum)
 
 - Installation de Virtualenv
